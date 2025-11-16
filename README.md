@@ -1,7 +1,8 @@
 # -ATmega328p-Morse-Decoder-
 Uses pure C to implement a morse code interpreter for the arduino uno system using atmega328p on a breadboard pushbutton based circuit
 
-#**IMPORTANT**
+**IMPORTANT**
+
 Specific circuit and pin-setup needed for functionality. This takes a pushbutton input and then processes it on an atmega328p-based 
 arduino uno controller, and then outputted on a 16-line LCD in 4-bit mode. 
 
